@@ -1,4 +1,4 @@
-# DS_Salaries_EDA
+# DS Salaries EDA and Visualization
 
 This repository contains code for Exploratory Data Analysis (EDA) and visualization of data science salaries. The aim is to gain insightful patterns within compensation data, enabling evidence-based decision-making for employers and professionals in the analytics industry. The following steps were performed to accomplish this:
 
